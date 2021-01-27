@@ -12,7 +12,7 @@ In this repository there are different models that analyze the opinion left by t
 ## Deep Learning
 
 - Word Embedding([Glove](https://nlp.stanford.edu/projects/glove/))
-- CNN with Kernel = 1: this is a [video](https://www.youtube.com/watch?v=vcp0XvDAX68) where explain technique.
+- CNN with Kernel = 1: this is a [video](https://www.youtube.com/watch?v=vcp0XvDAX68) where explain this technique.
 - [Fast-Text](https://arxiv.org/abs/1607.01759): a simple and efficient model for text classification.
 - [BETO](https://github.com/dccuchile/beto): the model bert trained for spanish.
 - [GRUs](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be): Gated recurrent units.
