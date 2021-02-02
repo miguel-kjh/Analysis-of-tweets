@@ -31,7 +31,7 @@ All models have undergone a fine tuning process to get the best performance from
    <p align="center">Figure 2: Results of the experiment for a unbalanced Dataset</p>
 </p>
 
-## Conlcusion
+## Conclusion
 
 As can be seen in the figures, the connectionist approach (deep learning) generates better results for both datasets, however, using balanced data, the models manage to reach 80% accuracy.CNN and Fast-text are fast and effective methods, however, despite being more powerful transofmers fall below the previous two methods. I suppose that the reason is because being a model designed for large volumes of data, with few data as is the case, only 7000 samples, these models give good results but it is not as impressive as in other applications.
 
